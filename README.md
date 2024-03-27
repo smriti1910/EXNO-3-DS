@@ -31,8 +31,30 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![exp3 ss1](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/4249ce00-104f-4429-83ec-44ba0f4226ca)
+![exp3 ss2](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/ca84c92a-7347-4b82-a0fa-23b67f1bfb2a)
+![exp3 ss3](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/58c43437-5296-4366-9cd4-8122cd2d1469)
+![exp3 ss4](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/41f4456e-bc96-4497-be81-1072bcf848ea)
+![exp3 ss5](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/f018d912-ef7e-44a8-933d-814d36f223e3)
+![exp3 ss6](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/5763c6d9-10ae-4a12-b1b5-2c72851edba0)
+![exp3 ss7](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/3753c30f-9b87-4c92-87f6-0031f9dc1a4e)
+![exp3 ss8](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/5402b86a-44ab-4a11-bc7c-70cabc97e3ff)
+![exp3 ss9](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/6549d8a0-71b7-4ed7-babe-2df964f0861f)
+![exp3 ss10](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/820d889c-c91c-4e1a-b1c0-6764c2fbeba9)
+![exp3 ss11](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/46d4196b-5650-4278-8b56-4e8533a19bba)
+![exp3 ss12](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/afd08ac7-7fa7-4b3e-a35d-48b2f0dcc761)
+![exp3 ss13](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/c30d51e3-752f-4b9a-99d7-60728af06622)
+![exp3 ss14](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/b9751a52-3a3f-4318-9435-9ab1636e9d89)
+![exp3 ss15](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/eb064cfd-1f82-4f09-9ad7-bd8092b160e7)
+![exp3 ss16](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/40cea584-86eb-49f2-86df-1be8d13a5569)
+![exp3 ss17](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/a628454d-744c-4808-af0c-83837eaf49e2)
+![exp3 ss18](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/f73f375a-3090-452f-bec9-441b856f4efa)
+![exp3 ss19](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/013152c9-2fd9-4e89-b85b-f8e63f28e5d1)
+![exp3 ss20](https://github.com/smriti1910/EXNO-3-DS/assets/133334803/6a05060d-cd5b-47f6-8ac7-13814b9ba86a)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus the given data is read and  Feature Encoding and Transformation process is performed and save the data to a file.
 
        
